@@ -1,0 +1,14 @@
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\obj\Debug\net6.0\HospitalAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\obj\Debug\net6.0\HospitalAppointmentSystem.AssemblyInfoInputs.cache
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\obj\Debug\net6.0\HospitalAppointmentSystem.AssemblyInfo.cs
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\obj\Debug\net6.0\HospitalAppointmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\bin\Debug\net6.0\HospitalAppointmentSystem.exe
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\bin\Debug\net6.0\HospitalAppointmentSystem.deps.json
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\bin\Debug\net6.0\HospitalAppointmentSystem.runtimeconfig.json
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\bin\Debug\net6.0\HospitalAppointmentSystem.dll
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\bin\Debug\net6.0\HospitalAppointmentSystem.pdb
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\obj\Debug\net6.0\HospitalAppointmentSystem.dll
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\obj\Debug\net6.0\refint\HospitalAppointmentSystem.dll
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\obj\Debug\net6.0\HospitalAppointmentSystem.pdb
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\obj\Debug\net6.0\HospitalAppointmentSystem.genruntimeconfig.cache
+C:\Users\parsh\Documents\Projects\hospitalappointmentsystem\obj\Debug\net6.0\ref\HospitalAppointmentSystem.dll
