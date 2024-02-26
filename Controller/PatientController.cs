@@ -20,9 +20,9 @@ public class PatientController
         string contactNumber = Console.ReadLine();
         Console.WriteLine("Enter your Address");
         string address = Console.ReadLine();
-        Console.WriteLine("Enter Appointment date");
+        //Console.WriteLine("Enter Appointment date");
 
-        DateTime todayDate = Convert.ToDateTime(Console.ReadLine());
+        //DateTime todayDate = Convert.ToDateTime(Console.ReadLine());
         
 
         PatientDetails PatientObj = new PatientDetails()
@@ -30,7 +30,7 @@ public class PatientController
             PatientId = patientId,
             Name = name,
             Symptoms = symptoms,
-            TodayDate = todayDate,
+            TodayDate = DateTime.Now,
             Age = age,
             Weight = weight,
             IsActive = isActive,
@@ -54,7 +54,7 @@ public class PatientController
             Console.WriteLine("Mention the changes in your Symptooms");
             string symptoms = Console.ReadLine();
             PatientObj.Symptoms = string.Concat(PatientObj.Symptoms + " " +symptoms);
-            Console.WriteLine("Choose new Appointment date");
+            Console.WriteLine("Change the New arrival Date");
             DateTime time = Convert.ToDateTime(Console.ReadLine());
             PatientObj.TodayDate = time;
             WriteJsonData(PatientObj);
